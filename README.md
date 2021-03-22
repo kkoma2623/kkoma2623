@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔥 Now I'm studying web front-end
+🔥 Now I'm looking for a new job
 
 ---
 #### Internship
