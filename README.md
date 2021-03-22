@@ -37,7 +37,7 @@ Riderdash
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkoma26239&show_icons=true&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkoma2623&show_icons=true&theme=dracula)
 
 ---
 
