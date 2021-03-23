@@ -86,5 +86,4 @@ Here are some ideas to get you started:
   - Location: Seongbuk-gu, Seoul, South Korea
   - What I did: Got award Obstacle Run 2nd Place at FIRA RoboWorld Cup 2015, studied computer vision, OpenCV
 
-
 ---
