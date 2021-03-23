@@ -29,6 +29,19 @@ Here are some ideas to get you started:
 
 ---
 
+#### Basic info
+
+- B.S. degree expected in Computer Science
+  - Kookmin University, Seoul, Korea (2014 ~ 2021)
+- Student ID: 20143109
+- Name: Jiwook Choi (최지욱, Woogie)
+- GitHub ID: [kkoma2623](https://github.com/kkoma2623)
+- LinkedIn: [Sang-geon Yun](https://www.linkedin.com/in/jiwook-choi-woogie/)
+- BOJ(Baekjoon Online Judge) ID: [boo106](http://boj.kr/u/boo106)
+- email: jiwook.dev@gmail.com
+
+---
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
