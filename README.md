@@ -24,34 +24,6 @@ Here are some ideas to get you started:
 ![GitHub followers](https://img.shields.io/github/followers/kkoma2623?style=social)
 
 ---
-#### Experience
-- Full Stack Engineer (Internship)
-  - At: RiderDash
-  - Term: Jun 2020 - Feb 2021
-  - Location: Samseong-dong, Seoul, South Korea
-  - What I've done:
-    - Developed web
-    - A/B and Multivariate testing
-    - Improve conversion
-  - What I did:
-    - Web development: Used TypeScript, React.js, MobX, Redux.js, Apollo + GraphQL, Vue.js, Vuex.js, NodeJS, Next.js, Nest.js
-    - Server migration: Migrate GCP to AWS. Used S3, Lamda, Route53, CloudFront, IAM, SAM CLI
-- Research Assistant(Online)
-  - At: UC Irvine
-  - Term: Dec 2020 - Fev 2021
-  - Location: Onine
-  - What I did: Studied DNN(Deep Neural Network), ZFP compression, Try to boost DNN performace by zfp compression algorithm on VGG.
-- FOSCAR
-  - At: Kookmin University Autonomous Club
-  - Term: Mar 2019 - Feb 2020
-  - Location: Seongbuk-gu, Seoul, South Korea
-  - What I did: Got award 3rd Place at BRKL(Battle Robot Korea League) autonomous, Advanced to the finals as a representative of the Korean team at 2020 Turtlebot autorace, studied SVM, computer vision, OpenCV
- - KOBOT
-  - At: Kookmin University Humanoid and Embedded Club
-  - Term: Sep 2014 - Dec 2015
-  - Location: Seongbuk-gu, Seoul, South Korea
-  - - What I did: Got award Obstacle Run 2nd Place at FIRA RoboWorld Cup 2015, studied computer vision, OpenCV
----
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -79,6 +51,36 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
 <br/>
 <br/>
+
+---
+#### Experience
+- Full Stack Engineer (Internship)
+  - At: RiderDash
+  - Term: Jun 2020 - Feb 2021
+  - Location: Samseong-dong, Seoul, South Korea
+  - What I've done:
+    - Developed web
+    - A/B and Multivariate testing
+    - Improve conversion
+  - What I did:
+    - Web development: Used TypeScript, React.js, MobX, Redux.js, Apollo + GraphQL, Vue.js, Vuex.js, NodeJS, Next.js, Nest.js
+    - Server migration: Migrate GCP to AWS. Used S3, Lamda, Route53, CloudFront, IAM, SAM CLI
+- Research Assistant(Online)
+  - At: UC Irvine
+  - Term: Dec 2020 - Fev 2021
+  - Location: Onine
+  - What I did: Studied DNN(Deep Neural Network), ZFP compression, Try to boost DNN performace by zfp compression algorithm on VGG.
+- FOSCAR
+  - At: Kookmin University Autonomous Club
+  - Term: Mar 2019 - Feb 2020
+  - Location: Seongbuk-gu, Seoul, South Korea
+  - What I did: Got award 3rd Place at BRKL(Battle Robot Korea League) autonomous, Advanced to the finals as a representative of the Korean team at 2020 Turtlebot autorace, studied SVM, computer vision, OpenCV
+- KOBOT
+  - At: Kookmin University Humanoid and Embedded Club
+  - Term: Sep 2014 - Dec 2015
+  - Location: Seongbuk-gu, Seoul, South Korea
+  - What I did: Got award Obstacle Run 2nd Place at FIRA RoboWorld Cup 2015, studied computer vision, OpenCV
+
 
 ---
 
