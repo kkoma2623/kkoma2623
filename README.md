@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔥 Now I'm looking for a new job
+🌱 I'm a junior developer
 
 ---
 
@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)
