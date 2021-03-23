@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kkoma2623&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://velog.io/@kkoma2623)](https://velog.io/@kkoma2623)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwook.dev@gmail.com)](mailto:jiwook.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwook-choi-8350751bb)](https://www.linkedin.com/in/jiwook-choi-8350751bb/)
@@ -81,9 +85,5 @@ Here are some ideas to get you started:
   - Location: Seongbuk-gu, Seoul, South Korea
   - What I did: Got award Obstacle Run 2nd Place at FIRA RoboWorld Cup 2015, studied computer vision, OpenCV
 
-
----
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kkoma2623&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
