@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 #### Basic info
 
-- B.S. degree expected in Computer Science
+- B.S. degree in Computer Science
   - Kookmin University, Seoul, Korea (2014 ~ 2021)
 - Student ID: 20143109
 - Name: Jiwook Choi (최지욱, Woogie)
