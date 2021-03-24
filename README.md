@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=velog&link=https://velog.io/@kkoma2623)](https://velog.io/@kkoma2623)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwook.dev@gmail.com)](mailto:jiwook.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwook-choi-8350751bb)](https://www.linkedin.com/in/jiwook-choi-8350751bb/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwook-choi-woogie)](https://www.linkedin.com/in/jiwook-choi-woogie/)
 ![GitHub followers](https://img.shields.io/github/followers/kkoma2623?style=social)
 
 ---
