@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Student ID: 20143109
 - Name: Jiwook Choi (최지욱, Woogie)
 - GitHub ID: [kkoma2623](https://github.com/kkoma2623)
-- LinkedIn: [Sang-geon Yun](https://www.linkedin.com/in/jiwook-choi-woogie/)
+- LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)
 - BOJ(Baekjoon Online Judge) ID: [boo106](http://boj.kr/u/boo106)
 - email: jiwook.dev@gmail.com
 
