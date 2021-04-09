@@ -86,7 +86,7 @@ Here are some ideas to get you started:
     - Server migration: Migrate GCP to AWS. Used S3, Lamda, Route53, CloudFront, IAM, SAM CLI
 - Research Assistant(Online)
   - At: UC Irvine
-  - Term: Dec 2020 - Fev 2021
+  - Term: Dec 2020 - Feb 2021
   - Location: Onine
   - What I did: Studied DNN(Deep Neural Network), ZFP compression, Try to boost DNN performace by zfp compression algorithm on VGG.
 - FOSCAR
