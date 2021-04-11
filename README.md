@@ -82,7 +82,7 @@ Here are some ideas to get you started:
     - A/B and Multivariate testing
     - Improve conversion
   - What I did:
-    - Web development: Used TypeScript, React.js, MobX, Redux.js, Apollo + GraphQL, Vue.js, Vuex.js, NodeJS, Next.js, Nest.js
+    - Web development: Used TypeScript, React.js, MobX, Redux.js, Apollo + GraphQL, NodeJS, Next.js, Nest.js
     - Server migration: Migrate GCP to AWS. Used S3, Lamda, Route53, CloudFront, IAM, SAM CLI
 - Capstone Design Project
   - At: Kookmin University
@@ -101,6 +101,22 @@ Here are some ideas to get you started:
   - Term: Dec 2020 - Feb 2021
   - Location: Onine
   - What I did: Studied DNN(Deep Neural Network), ZFP compression, Try to boost DNN performace by zfp compression algorithm on VGG.
+- Dodam Dodam Project(Porn Image Filtering)
+  - At: Kookmin University
+  - Term: Nov 2019 - Dec 2019
+  - Location: Seongbuk-gu, Seoul, South Korea
+  - Team: Jiwook Choi(me), Hojoon Park, Hyobin Hwang, Hyunki Son, Yerin Oh
+  - What I did:
+    - Collect ans label 65,000 porn images
+    - Learning pretrained ResNet50 and GoogLeNet
+      - ResNet50's test set accuracy: 97%, recall: 95%, precision: 98%
+      - GooLeNet's test set accuracy: 95%), recall: 91%, precision: 99%
+    - Use OpenCV to detect image area and judege porn or not at realtime.
+- UROP (Undergraduate Researcher)
+  - At: Kookmin University
+  - Term: Mar 2019 - July 2019
+  - Location: Seongbuk-gu, Seoul, South Korea
+  - What I did:
 - FOSCAR
   - At: Kookmin University Autonomous Club
   - Term: Mar 2019 - Feb 2020
