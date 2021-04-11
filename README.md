@@ -84,6 +84,18 @@ Here are some ideas to get you started:
   - What I did:
     - Web development: Used TypeScript, React.js, MobX, Redux.js, Apollo + GraphQL, Vue.js, Vuex.js, NodeJS, Next.js, Nest.js
     - Server migration: Migrate GCP to AWS. Used S3, Lamda, Route53, CloudFront, IAM, SAM CLI
+- Capstone Design Project
+  - At: Kookmin University
+  - Term: Mar 2020 - Jun 2020
+  - Location: Seongbuk-gu, Seoul, South Korea
+  - Award:
+    - Popularity Award
+  - Team: ㅇㅅㅇ (Algorithm Service Labatory, 알고리즘 서비스 연구소)
+    - Myung-Seo Choi(PM), Jiwook Choi(FE Leader, me), Hyunwoong Woo(BE Leader), Hojoon Park, Sooryun Kang, Khalid
+  - Whar I did:
+    - Administrate FE develop schedule as a PL.
+    - Use React and React hooks for FE develop
+    - Use Phaser 3 game framework to implement replay page.
 - Research Assistant(Online)
   - At: UC Irvine
   - Term: Dec 2020 - Feb 2021
@@ -93,11 +105,27 @@ Here are some ideas to get you started:
   - At: Kookmin University Autonomous Club
   - Term: Mar 2019 - Feb 2020
   - Location: Seongbuk-gu, Seoul, South Korea
-  - What I did: Got award 3rd Place at BRKL(Battle Robot Korea League) autonomous, Advanced to the finals as a representative of the Korean team at 2020 Turtlebot autorace, studied SVM, computer vision, OpenCV
+  - Award:
+    - 3rd Place at BRKL(Battle Robot Korea League) Autonomous Driving
+    - Advanced to the finals as a representative of the Korean team at 2020 Turtlebot autorace
+  - Team: Jiwook Choi(Leader, General Affairs, me), Myung-Seo Choi, Somang Kim, Kihoon Hong
+  - What I did:
+    - Use SVM and Hog features to detect traffic signs.
+    - Use OpenCV for linetracing and traffic signs detect.
+    - Use ROS to build robot applicatinos.
+    - Use LDS sensor to detect obstacles.
+    - Set parking algorithm.
+    - Administrate club grants.
 - KOBOT
   - At: Kookmin University Humanoid and Embedded Club
   - Term: Sep 2014 - Dec 2015
   - Location: Seongbuk-gu, Seoul, South Korea
-  - What I did: Got award Obstacle Run 2nd Place at FIRA RoboWorld Cup 2015, studied computer vision, OpenCV
+  - Award:
+    -  Obstacle Run 2nd Place at FIRA RoboWorld Cup 2015
+  - Team: Dakyung Oh(Leader), Hyungmin In, Jiwook Choi(me), Hyowon Choi
+  - What I did:
+    - Use OpenCV to detect obstacles.
+    - Use RoboC to set humanoid robot's actions.
+    - Get club grants more than 8,000,000 Won as a general affairs from Samsung Friendship and KOFST(The Korean Federation of Science and Technology).
 
 ---
