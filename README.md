@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
+![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
 <br/>
 <br/>
