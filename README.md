@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - GitHub ID: [kkoma2623](https://github.com/kkoma2623)
 - LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)
 - BOJ(Baekjoon Online Judge) ID: [boo106](http://boj.kr/u/boo106)
+- Blog: [Velog](https://velog.io/@kkoma2623)
 - email: jiwook.dev@gmail.com
 
 ---
