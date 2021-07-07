@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm a junior R&D in Hyundai Autoever
+🔭 I’m currently working on Hyundai Autoever as a professional researcher
 
 ---
 
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 #### Basic info
 
+- Professinal Researcher in Hyundai Autoever (2021 ~ )
 - B.S. degree in Computer Science
   - Kookmin University, Seoul, Korea (2014 ~ 2021)
 - Student ID: 20143109
