@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I'm a junior developer
+🌱 I'm a junior R&D in Hyundai Autoever
 
 ---
 
@@ -75,6 +75,12 @@ Here are some ideas to get you started:
 
 ---
 #### Experience
+- Professional Researcher
+  - At: Hyundai Autoever
+  - Term: May 2021 - Now
+  - Location: Samseong-dong, Seoul, South Korea
+  - What I'm doing:
+    - Classic AUTOSAR
 - Full Stack Engineer (Internship)
   - At: RiderDash
   - Term: Jun 2020 - Feb 2021
