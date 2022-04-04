@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ---
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kkoma2623&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoma2623&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/kkoma2623/kkoma2623)
 
 ---
 
