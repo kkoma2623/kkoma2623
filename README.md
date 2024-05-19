@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   - Location: Samseong-dong, Seoul, South Korea
   - What I'm doing:
     - Classic AUTOSAR
-    - Develope module integrate automation tool
+    - Develop module integrate automation tool
 - Full Stack Engineer (Internship)
   - At: RiderDash
   - Term: Jun 2020 - Feb 2021
