@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 - LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)
 - Blog: [Velog](https://velog.io/@kkoma2623)
 - email: jiwook.dev@gmail.com
-
----
-
+- 
 <br/>
 <br/>
 
