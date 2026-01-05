@@ -1,27 +1,6 @@
 ### Hi there 👋
 
-<!--
-**kkoma2623/kkoma2623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔭 I’m currently working on Hyundai Autoever as a professional researcher
-
----
-
-[![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=velog&link=https://velog.io/@kkoma2623)](https://velog.io/@kkoma2623)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwook.dev@gmail.com)](mailto:jiwook.dev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwook-choi-woogie)](https://www.linkedin.com/in/jiwook-choi-woogie/)
-![GitHub followers](https://img.shields.io/github/followers/kkoma2623?style=social)
 
 ---
 
@@ -32,11 +11,7 @@ Here are some ideas to get you started:
   - Kookmin University, Seoul, Korea (2014 ~ 2021)
 - Name: Jiwook Choi (최지욱, Woogie)
 - LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)
-- Blog: [Velog](https://velog.io/@kkoma2623)
 - email: jiwook.dev@gmail.com
-- 
-<br/>
-<br/>
 
 ---
 #### Experience
