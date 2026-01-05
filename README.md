@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 
 ---
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kkoma2623&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkoma2623&layout=compact&theme=tokyonight&hide=jupyter%20notebook)](https://github.com/kkoma2623/kkoma2623)
--->
----
-
 [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=velog&link=https://velog.io/@kkoma2623)](https://velog.io/@kkoma2623)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiwook.dev@gmail.com)](mailto:jiwook.dev@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiwook-choi-woogie)](https://www.linkedin.com/in/jiwook-choi-woogie/)
@@ -36,44 +30,13 @@ Here are some ideas to get you started:
 - Professinal Researcher in Hyundai Autoever (2021 ~ )
 - B.S. degree in Computer Science
   - Kookmin University, Seoul, Korea (2014 ~ 2021)
-- Student ID: 20143109
 - Name: Jiwook Choi (최지욱, Woogie)
-- GitHub ID: [kkoma2623](https://github.com/kkoma2623)
 - LinkedIn: [Jiwook Choi](https://www.linkedin.com/in/jiwook-choi-woogie/)
-- BOJ(Baekjoon Online Judge) ID: [boo106](http://boj.kr/u/boo106)
 - Blog: [Velog](https://velog.io/@kkoma2623)
 - email: jiwook.dev@gmail.com
 
 ---
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MobX](https://img.shields.io/badge/-Mobx-black?style=flat-square&logo=Mobx)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=Apollo%20GraphQL)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras)
-![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
-![Pytorch](https://img.shields.io/badge/-Pytorch-black?style=flat-square&logo=Pytorch)
-![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=OpenCV)
-![ROS](https://img.shields.io/badge/-ROS-black?style=flat-square&logo=ROS)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code)
 <br/>
 <br/>
 
